@@ -1,0 +1,75 @@
+{
+    "reviews": [
+      {
+        "id": 1,
+        "user": "JohnDoe123",
+        "rating": 4.5,
+        "comment": "Great product, excellent value for money!",
+        "date": "2023-01-15"
+      },
+      {
+        "id": 2,
+        "user": "Alice87",
+        "rating": 3.2,
+        "comment": "Not bad, but could be improved. Decent price.",
+        "date": "2023-02-02"
+      },
+      {
+        "id": 3,
+        "user": "TechGeek22",
+        "rating": 5.0,
+        "comment": "Absolutely fantastic! Couldn't be happier.",
+        "date": "2023-03-10"
+      },
+      {
+        "id": 4,
+        "user": "SatisfiedCustomer",
+        "rating": 4.0,
+        "comment": "Good quality and fast delivery. Will buy again.",
+        "date": "2023-04-05"
+      },
+      {
+        "id": 5,
+        "user": "FoodieFanatic",
+        "rating": 4.8,
+        "comment": "Delicious and well-packaged. A foodie's delight!",
+        "date": "2023-05-20"
+      },
+      {
+        "id": 6,
+        "user": "FitnessGuru",
+        "rating": 3.7,
+        "comment": "Decent fitness equipment. Expected more for the price.",
+        "date": "2023-06-08"
+      },
+      {
+        "id": 7,
+        "user": "Fashionista",
+        "rating": 4.5,
+        "comment": "Love the style! Trendy and comfortable.",
+        "date": "2023-07-17"
+      },
+      {
+        "id": 8,
+        "user": "GadgetMaster",
+        "rating": 4.2,
+        "comment": "Cool gadget, but the battery life could be longer.",
+        "date": "2023-08-22"
+      },
+      {
+        "id": 9,
+        "user": "NatureLover",
+        "rating": 5.0,
+        "comment": "Amazing outdoor gear. Perfect for nature enthusiasts.",
+        "date": "2023-09-30"
+      },
+      {
+        "id": 10,
+        "user": "BookWorm",
+        "rating": 4.7,
+        "comment": "Great read! Captivating storyline and well-written.",
+        "date": "2023-10-12"
+      }
+    ]
+  }
+  
